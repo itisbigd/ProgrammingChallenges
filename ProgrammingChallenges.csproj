@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Solutions\" />
+    <Folder Include="Solutions\Medium\" />
+    <Folder Include="Solutions\Hard\" />
   </ItemGroup>
 
 </Project>
